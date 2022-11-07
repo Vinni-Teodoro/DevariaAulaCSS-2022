@@ -1,0 +1,26 @@
+/* Estilos devStar */
+
+.section-tela{
+    text-align: center;
+}
+
+.title-table{
+    padding: 0 10px;
+    text-align: center;
+    text-transform: uppercase;    
+}
+
+.table-p > table{
+    width: 100%;
+}
+
+td,th{
+    border: 1px solid;
+    padding: 8px;
+}
+
+@media screen and (max-width: 992px) {
+    .section-tela {
+        width: 100%;
+    }
+}
