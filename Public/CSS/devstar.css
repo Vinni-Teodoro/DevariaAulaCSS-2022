@@ -11,12 +11,13 @@
 }
 
 .table-p > table{
-    width: 100%;
+    width: 50%;
 }
 
 td,th{
     border: 1px solid;
     padding: 8px;
+    text-align: left;
 }
 
 @media screen and (max-width: 992px) {
